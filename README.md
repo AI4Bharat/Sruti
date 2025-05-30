@@ -110,11 +110,4 @@ If you use the SRUTI dataset, code, or findings from our paper in your research,
 @inproceedings{YourLastNameEtAl2025Sruti,
   author    = {Anonymous Authors}, % TODO: Replace with actual authors upon de-anonymization
   title     = {Recognizing Every Voice: Towards Inclusive {ASR} for Rural Bhojpuri Women},
-  booktitle = {Proceedings of the INTERSPEECH 2025 Conference}, % TODO: Verify conference name and proceedings
-  year      = {2025},
-  address   = {Location of Conference}, % TODO: Add conference location
-  month     = {Month}, % TODO: Add month of conference
-  note      = {Anonymous submission. Final details to be updated upon publication.}
-  % url       = {Link to paper, e.g., arXiv or proceedings} % TODO: Add URL
-  % doi       = {DOI if available} % TODO: Add DOI
 }
