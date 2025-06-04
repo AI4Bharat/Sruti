@@ -107,7 +107,7 @@ Scripts and configurations for model training and SRUTI benchmark evaluation.
 If you use the SRUTI dataset, code, or findings from our paper in your research, please cite our work:
 
 ```bibtex
-@inproceedings{YourLastNameEtAl2025Sruti,
-  author    = {Anonymous Authors}, % TODO: Replace with actual authors upon de-anonymization
+@inproceedings{JoshiEtAl2025Sruti,
+  author    = {Anonymous Authors}, 
   title     = {Recognizing Every Voice: Towards Inclusive {ASR} for Rural Bhojpuri Women},
 }
