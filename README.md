@@ -2,7 +2,7 @@
 
 
 [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-blue)](https://huggingface.co/datasets/YOUR_HF_DATASET_LINK_HERE)
-[![arXiv](https://img.shields.io/badge/arXiv-PAPER_ID_HERE-b31b1b.svg)](https://arxiv.org/abs/PAPER_ID_HERE)
+[![arXiv](https://img.shields.io/badge/arXiv-PAPER_ID_HERE-b31b1b.svg)](https://arxiv.org/abs/2506.09653)
 
 This repository contains the resources, dataset information, and code for the Interspeech 2025 paper: "Recognizing Every Voice: Towards Inclusive ASR for Rural Bhojpuri Women." Our work focuses on creating the **SRUTI benchmark** for rural Bhojpuri women and leveraging synthetic speech to improve ASR performance for this underserved demographic.
 
@@ -107,7 +107,12 @@ Scripts and configurations for model training and SRUTI benchmark evaluation.
 If you use the SRUTI dataset, code, or findings from our paper in your research, please cite our work:
 
 ```bibtex
-@inproceedings{JoshiEtAl2025Sruti,
-  author    = {Anonymous Authors}, 
-  title     = {Recognizing Every Voice: Towards Inclusive {ASR} for Rural Bhojpuri Women},
+@misc{joshi2025recognizingvoiceinclusiveasr,
+      title={Recognizing Every Voice: Towards Inclusive ASR for Rural Bhojpuri Women}, 
+      author={Sakshi Joshi and Eldho Ittan George and Tahir Javed and Kaushal Bhogale and Nikhil Narasimhan and Mitesh M. Khapra},
+      year={2025},
+      eprint={2506.09653},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2506.09653}, 
 }
