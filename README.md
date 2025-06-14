@@ -1,7 +1,7 @@
 # Recognizing Every Voice: Towards Inclusive ASR for Rural Bhojpuri Women
 
 
-[![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-blue)](https://huggingface.co/datasets/YOUR_HF_DATASET_LINK_HERE)
+[![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-blue)](https://huggingface.co/datasets/ai4bharat/Rural_Women_Bhojpuri)
 [![arXiv](https://img.shields.io/badge/arXiv-PAPER_ID_HERE-b31b1b.svg)](https://arxiv.org/abs/2506.09653)
 
 This repository contains the resources, dataset information, and code for the Interspeech 2025 paper: "Recognizing Every Voice: Towards Inclusive ASR for Rural Bhojpuri Women." Our work focuses on creating the **SRUTI benchmark** for rural Bhojpuri women and leveraging synthetic speech to improve ASR performance for this underserved demographic.
