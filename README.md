@@ -28,9 +28,9 @@ This section provides an overview of and links to the key resources developed an
   * **Objective:** 25-30s speech/100 unique speakers (total 39.4 mins) transcribed.
 
 * **Text Prompts for SRUTI Data Collection:**
-    * ➡️ **Access Link:** `[Link to your Text Resources/Prompts Here]`
+    * ➡️ **Access Link:** `[Link]`
 * **Text Corpora for Synthetic Data Generation:**
-    * Bhojpuri: GPT-4o generated & translated sentences.  ➡️ **Access Link:** `[Link to your Text Resources/Prompts Here]`
+    * Bhojpuri: GPT-4o generated & translated sentences.  ➡️ **Access Link:** `[Link]`
 
 ### 🛠️ Tools Used
 
@@ -49,17 +49,17 @@ This section provides an overview of and links to the key resources developed an
 
     | Model ID | Description                                       | Datasets Used (Primary additions highlighted)                                                                 | Model Checkpoint Link         |
     | :------- | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------ | :---------------------------- |
-    | **M1** | Monolingual Bhojpuri                              | **Real Bhojpuri (133.4 hrs):** SpeeS-IA [19], ULCA NewsOnAir [6], Vaani [1], LIMMITS [20]                       | [GitHub/HF Hub - Coming Soon] |
-    | **M2** | Bilingual Bhojpuri + Hindi                        | M1 Data + **Real Hindi (376 hrs):** IndicVoices [2]                                                           | [GitHub/HF Hub - Coming Soon] |
-    | **M3** | Bilingual + Synthetic Bhojpuri                  | M2 Data + **Synthetic Bhojpuri (100 hrs)** (Seed: 39.4 mins Bhojpuri women)                                     | [GitHub/HF Hub - Coming Soon] |
-    | **M4** | Bilingual + Synthetic Bhojpuri + Synthetic Hindi | M3 Data + **Synthetic Hindi (100 hrs)** (Seed: ~40 mins Hindi women)                                          | [GitHub/HF Hub - Coming Soon] |
+    | **M1** | Monolingual Bhojpuri                              | **Real Bhojpuri (133.4 hrs):** SpeeS-IA [19], ULCA NewsOnAir [6], Vaani [1], LIMMITS [20]                       | [Coming Soon] |
+    | **M2** | Bilingual Bhojpuri + Hindi                        | M1 Data + **Real Hindi (376 hrs):** IndicVoices [2]                                                           | [Coming Soon] |
+    | **M3** | Bilingual + Synthetic Bhojpuri                  | M2 Data + **Synthetic Bhojpuri (100 hrs)** (Seed: 39.4 mins Bhojpuri women)                                     | [Coming Soon] |
+    | **M4** | Bilingual + Synthetic Bhojpuri + Synthetic Hindi | M3 Data + **Synthetic Hindi (100 hrs)** (Seed: ~40 mins Hindi women)                                          | [Coming Soon] |
 
 ---
 
 
 ### Data Collection Methodology
 1.  **Community Engagement:** Collaboration with ASHA/ANMs for trust and informed consent. 
-   *  **Link to Brochure used for engagement:** `[Link to your Community Engagement Brochure Here]`
+   *  **Link to Brochure used for engagement:** `[Link]`
 3.  **On-Field Collection:** Using **Kathbath app** in government facilities (Primary Health centres (PHCs)).
 
 
