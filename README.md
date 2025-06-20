@@ -17,14 +17,14 @@ This section provides an overview of and links to the key resources developed an
 ### 📚 Datasets & Text Corpora
 
 * **SRUTI Benchmark Dataset:** For evaluating ASR for rural Bhojpuri women.
-    *  🤗 **Link:** [View SRUTI Benchmark](https://huggingface.co/datasets/SakshiJ/Rural_bhojpuri/viewer/default/benchmark)
+    *  🤗 **Link:** [View SRUTI Benchmark](https://huggingface.co/datasets/ai4bharat/Rural_Women_Bhojpuri/viewer/default/benchmark?views%5B%5D=benchmark)
    *
    * **Objective:** Real-world speech benchmark for rural Bhojpuri women, covering key domains.. 72 minutes, 444 utterances, 51 speakers, 4 target domains
    * **Language:** Bhojpuri (dialect accents from Bhadohi, Jaunpur, Mirzapur districts, UP, India).
    * **Domains:** Agriculture, Health, Government Schemes, Finance, and ice-breaker topics.
    * **Demographics:** Women, 4 age groups (18-60+), varied education.
 * **Seed Audio for Synthesis:** 39.4 mins real speech (100 Bhojpuri women, 100 Hindi women).
-    *  🤗 **Link:** [View Real Train Data](https://huggingface.co/datasets/SakshiJ/Rural_bhojpuri/viewer/default/train_real)
+    *  🤗 **Link:** [View Real Train Data](https://huggingface.co/datasets/ai4bharat/Rural_Women_Bhojpuri/viewer/default/train_real)
   * **Objective:** 25-30s speech/100 unique speakers (total 39.4 mins) transcribed.
 
 * **Text Prompts for SRUTI Data Collection:**
