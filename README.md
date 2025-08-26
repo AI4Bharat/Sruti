@@ -28,7 +28,7 @@ This section provides an overview of and links to the key resources developed an
   * **Objective:** 25-30s speech/100 unique speakers (total 39.4 mins) transcribed.
 
 * **Text Prompts for SRUTI Data Collection:**
-    * ➡️ **Access Link:** `[Link]`
+    * ➡️ **Access Link:** `https://github.com/AI4Bharat/Sruti/tree/master/Text_Resources`
 * **Text Corpora for Synthetic Data Generation:**
     * Bhojpuri: GPT-4o generated & translated sentences.  ➡️ **Access Link:** `[Link]`
 
