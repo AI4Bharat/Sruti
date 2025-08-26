@@ -28,9 +28,9 @@ This section provides an overview of and links to the key resources developed an
   * **Objective:** 25-30s speech/100 unique speakers (total 39.4 mins) transcribed.
 
 * **Text Prompts for SRUTI Data Collection:**
-    * ➡️ **Access Link:** `https://github.com/AI4Bharat/Sruti/tree/master/Text_Resources`
+    * ➡️ [**Access Link**](https://github.com/AI4Bharat/Sruti/tree/master/Text_Resources)
 * **Text Corpora for Synthetic Data Generation:**
-    * Bhojpuri: ➡️ **Access Link:** `https://github.com/AI4Bharat/Sruti/blob/master/Text_Resources/Synthetic_Text.csv`
+    * Bhojpuri: ➡️ [**Access Link**](https://github.com/AI4Bharat/Sruti/blob/master/Text_Resources/Synthetic_Text.csv`)
 
 ### 🛠️ Tools Used
 
@@ -40,26 +40,26 @@ This section provides an overview of and links to the key resources developed an
 * **Speech Synthesis:** Multilingual prompt-based model [11] (zero-shot for Bhojpuri from Hindi F5]). [IndicF5](https://huggingface.co/spaces/ai4bharat/IndicF5).
 * **ASR Architecture:** Conformer-L [17] with Hybrid CTC + RNN-T loss) [IndicConformer](https://github.com/AI4Bharat/IndicConformerASR).
 
-### checkpoint_models Model Checkpoints & Code
+### Model Checkpoints & Code
 
 * **Code Repository:** Training, evaluation, and synthetic data generation code.
     * Training/Evaluation: 
     * Synthetic Data: 
-* **Pre-trained Model Checkpoints (M1-M4):** To be released on GitHub/HF Hub. **[Coming Soon]**
+* **Pre-trained Model Checkpoints (M1-M4):**
 
-    | Model ID | Description                                       | Datasets Used (Primary additions highlighted)                                                                 | Model Checkpoint Link         |
+    | Model ID | Description                                       | Datasets Used                                                                 | Model Checkpoint Link         |
     | :------- | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------ | :---------------------------- |
-    | **M1** | Monolingual Bhojpuri                              | **Real Bhojpuri (133.4 hrs):** SpeeS-IA [19], ULCA NewsOnAir [6], Vaani [1], LIMMITS [20]                       | [Coming Soon] |
-    | **M2** | Bilingual Bhojpuri + Hindi                        | M1 Data + **Real Hindi (376 hrs):** IndicVoices [2]                                                           | [Coming Soon] |
-    | **M3** | Bilingual + Synthetic Bhojpuri                  | M2 Data + **Synthetic Bhojpuri (100 hrs)** (Seed: 39.4 mins Bhojpuri women)                                     | [Coming Soon] |
-    | **M4** | Bilingual + Synthetic Bhojpuri + Synthetic Hindi | M3 Data + **Synthetic Hindi (100 hrs)** (Seed: ~40 mins Hindi women)                                          | [Coming Soon] |
+    | **M1** | Monolingual Bhojpuri                              | **Real Bhojpuri (133.4 hrs):** SpeeS-IA [19], ULCA NewsOnAir [6], Vaani [1], LIMMITS [20]                       | [M1](https://github.com/AI4Bharat/Sruti/blob/master/Models/ASR/M1.nemo) |
+    | **M2** | Bilingual Bhojpuri + Hindi                        | M1 Data + **Real Hindi (376 hrs):** IndicVoices [2]                                                           | [M2](https://github.com/AI4Bharat/Sruti/blob/master/Models/ASR/M2.nemo) |
+    | **M3** | Bilingual + Synthetic Bhojpuri                  | M2 Data + **Synthetic Bhojpuri (100 hrs)** (Seed: 39.4 mins Bhojpuri women)                                     | [M3](https://github.com/AI4Bharat/Sruti/blob/master/Models/ASR/M3.nemo) |
+    | **M4** | Bilingual + Synthetic Bhojpuri + Synthetic Hindi | M3 Data + **Synthetic Hindi (100 hrs)** (Seed: ~40 mins Hindi women)                                          | [M4](https://github.com/AI4Bharat/Sruti/blob/master/Models/ASR/M4.nemo) |
 
 ---
 
 
 ### Data Collection Methodology
 1.  **Community Engagement:** Collaboration with ASHA/ANMs for trust and informed consent. 
-   *  **Link to Brochure used for engagement:** `https://github.com/AI4Bharat/Sruti/tree/master/Miscellaneous/Community_Engagement`
+   *  **Link to Brochure used for engagement:** [Link](https://github.com/AI4Bharat/Sruti/tree/master/Miscellaneous/Community_Engagement)
 3.  **On-Field Collection:** Using **Kathbath app** in government facilities (Primary Health centres (PHCs)).
 
 
