@@ -30,7 +30,7 @@ This section provides an overview of and links to the key resources developed an
 * **Text Prompts for SRUTI Data Collection:**
     * ➡️ **Access Link:** `https://github.com/AI4Bharat/Sruti/tree/master/Text_Resources`
 * **Text Corpora for Synthetic Data Generation:**
-    * Bhojpuri: GPT-4o generated & translated sentences.  ➡️ **Access Link:** `[Link]`
+    * Bhojpuri: ➡️ **Access Link:** `https://github.com/AI4Bharat/Sruti/blob/master/Text_Resources/Synthetic_Text.csv`
 
 ### 🛠️ Tools Used
 
