@@ -59,7 +59,7 @@ This section provides an overview of and links to the key resources developed an
 
 ### Data Collection Methodology
 1.  **Community Engagement:** Collaboration with ASHA/ANMs for trust and informed consent. 
-   *  **Link to Brochure used for engagement:** `[Link]`
+   *  **Link to Brochure used for engagement:** `https://github.com/AI4Bharat/Sruti/tree/master/Miscellaneous/Community_Engagement`
 3.  **On-Field Collection:** Using **Kathbath app** in government facilities (Primary Health centres (PHCs)).
 
 
